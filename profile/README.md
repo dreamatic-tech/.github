@@ -2,7 +2,9 @@
 
 Nestled deep in a lush green forest, Dreamatic is dedicated to developing innovative apps. Our unique office location is designed to be a harmonious workspace for new ideas. Our goal is to create software applications that give people joy and safety in all phases of their lives, which is why we develop sustainable technology solutions that stand the test of time.
 
-> The suffix -matic comes from matos in Greek, that means "willing to perform". In our case — willing to dream. As a team with large contributions into JavaScript’s open source ecosystem we always focus on achieving business goals via efficient, well-designed, and easy to maintain software.
+> The suffix -matic comes from matos in Greek, that means "willing to perform". In our case — willing to dream.
+
+As a team with large contributions into JavaScript’s open source ecosystem we always focus on achieving business goals via efficient, well-designed, and easy to maintain software.
 
 
 ### Links
